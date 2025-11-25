@@ -45,7 +45,7 @@ A modern **Student Result Management System** built with **React**, **TailwindCS
 
 ## 📂 Project Structure
 
-```
+```structure
 ├── src
 │   ├── api
 │   │   └── api.js           # All API calls & endpoints
@@ -104,7 +104,7 @@ Other supporting files include index.html, vite.config.js, images, and configura
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mayankkmauryaa/Student-Result-Management.git
 cd student-result-system
 ```
 
@@ -119,7 +119,7 @@ npm install
 Run JSON Server and Vite together using a single command :
 
 ```bash
-npm run dev:all
+npm run dev
 ```
 
 - **Frontend:** [http://localhost:5173](http://localhost:5173)
@@ -127,14 +127,14 @@ npm run dev:all
 
 ### 4. Available scripts
 
-| Command           | Description                                  |
-| ----------------- | -------------------------------------------- |
-| `npm run dev`     | Start Vite development server                |
-| `npm run server`  | Start JSON Server API                        |
-| `npm run dev:all` | Start both Vite and JSON Server concurrently |
-| `npm run build`   | Build production bundle                      |
-| `npm run preview` | Preview production build                     |
-| `npm run lint`    | Run ESLint                                   |
+| Command                | Description                                  |
+| ---------------------- | -------------------------------------------- |
+| `npm run dev:frontend` | Start Vite development server                |
+| `npm run dev:server`   | Start JSON Server API                        |
+| `npm run dev`          | Start both Vite and JSON Server concurrently |
+| `npm run build`        | Build production bundle                      |
+| `npm run preview`      | Preview production build                     |
+| `npm run lint`         | Run ESLint                                   |
 
 ---
 
@@ -190,8 +190,9 @@ The system calculates grades automatically based on marks and assigns color-code
 
 **Mayank Maurya**
 
-- GitHub: [your-github-url]
-- LinkedIn: [your-linkedin-url]
+- [Portfolio](https://mayankmaurya.netlify.app/)
+- [GitHub](https://github.com/mayankkmauryaa/Student-Result-Management)
+- [LinkedIn](https://www.linkedin.com/in/mayankmaurya05/)
 
 ---
 
