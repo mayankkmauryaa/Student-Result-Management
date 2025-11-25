@@ -1,4 +1,5 @@
-const API_ROOT = "http://localhost:4000";
+const API_ROOT = "https://student-result-management-hgq5.onrender.com/";
+
 
 async function request(path, options = {}) {
     const controller = new AbortController();
